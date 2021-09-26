@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Address_Book
+namespace AddressBookProblem
 {
     class UC4DeleteContacts
     {
